@@ -78,10 +78,25 @@ The main pre-requisite for this software is Python3. The following will also nee
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The first page of the software contains the instructions to set up a Google API key and a Custom Search engine, as well as some general functions of the program
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+![Instructions](ExampleImages/firstpage.png)_
 
+The second page allows a user to do one of three things: Load a Word (.docx) file, load a "Chogg" file, or copy and past questions into the text boxes. The Word file loader will attempt to find questions in your assignment the best it can through sorting paragraphs from longest to shortest.
+
+![Load](ExampleImages/loadfiles.png)_
+
+Clicking on the "Finding Links" button will return the top 2 google hits for each text box. Typically, if it is an original question, the first hit will be a site in which it has been posted for solutions.
+
+# The biggest timesaver
+
+Once you have your assignment questions loaded, hit the "Save Chogg File". This will allow you to save that particular assignment as a ".chogg" file, such that when you launch the program again, you can quickly load and search all those questions again. For example, if you post the assignment online, you could quickly load this file and search every day to see if any questions have been posted online
+
+![Find](ExampleImages/findinglinks.png)_
+
+Once you have found your files online (you can click on hyperlinks), you can then export the links. Check the box beside each link you wish to export. Then, click either "Export Word" or "Export CSV". Some sites allow .csv files for large takedown requests. A Word file can be advantageous in information request letters for some sites.
+
+![Export](ExampleImages/exportingfiles.png)_
 
 <!-- CONTRIBUTING -->
 ## Contributing
