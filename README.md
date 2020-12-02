@@ -2,6 +2,8 @@
 
 # Hit the donate button on the right if this code helps you out and you want to support my ongoing projects! -->
 
+Alternatively, send me an email at antichogg@gmail.com
+
 I currently am working on improvements for our graduate students researchers, including low-cost and multi-use dataloggers utilising Raspberry Pi's. 
 
 <!-- TABLE OF CONTENTS -->
