@@ -1,4 +1,5 @@
 from sys import exit , argv
+from PySide2 import __file__ as PFile
 from PySide2.QtWidgets import QApplication, QMainWindow,  QApplication, QFileDialog, QMessageBox, QDialog
 from PySide2.QtCore import QFile
 from PySide2.QtUiTools import loadUiType
