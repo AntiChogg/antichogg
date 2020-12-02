@@ -9,6 +9,9 @@ from csv import writer, reader
 from bs4 import BeautifulSoup
 from googleapiclient.discovery import build
 
+dirname = path.dirname(PFile)
+plugin_path = path.join(dirname, 'plugins', 'platforms')
+environ['QT_QPA_PLATFORM_PLUGIN_PATH'] = plugin_path
 
 CONFIG_FILE = 'config.pkl'
 class MainWindow(QMainWindow):
