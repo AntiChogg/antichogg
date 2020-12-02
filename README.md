@@ -4,7 +4,7 @@
 
 Alternatively, send me an email at antichogg@gmail.com
 
-I currently am working on improvements for our graduate students researchers, including low-cost and multi-use dataloggers utilising Raspberry Pi's. 
+I currently am working on improvements for our graduate students researchers, including low-cost and multi-use dataloggers utilising Raspberry Pi's - which I hope to have another Github up for shortly.
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
